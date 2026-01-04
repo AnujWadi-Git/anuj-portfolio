@@ -1,0 +1,24 @@
+﻿# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-lock.yaml
+
+# Next.js / build
+.next/
+out/
+dist/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# System
+.DS_Store
+Thumbs.db
+coverage/
+
+# IDEs
+.vscode/
+.idea/
